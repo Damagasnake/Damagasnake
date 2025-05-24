@@ -1,17 +1,17 @@
 # Hi there! 👋 I'm Damagasnake
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=42+Madrid+Student+%F0%9F%9A%80;Neural+Network+Enthusiast+%F0%9F%A7%A0;Cybersecurity+Passionate+%F0%9F%94%92;Building+with+NumPy+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=42+Madrid+Student+%F0%9F%9A%80;Cybersecurity+Passionate+%F0%9F%94%92;C+Programming+Enthusiast+%E2%9A%A1;Always+Learning+%F0%9F%A7%A0" alt="Typing SVG" />
 </div>
 
 ## 🎯 About Me
 
-I'm a passionate student at **42 Madrid**, diving deep into the world of programming and computer science through the innovative peer-to-peer learning methodology. When I'm not tackling the core curriculum, you'll find me exploring the fascinating realms of **machine learning**, **neural networks**, and **cybersecurity**.
+I'm a passionate student at **42 Madrid**, diving deep into the world of programming and computer science through the innovative peer-to-peer learning methodology. When I'm not tackling the core curriculum, you'll find me exploring **cybersecurity** and experimenting with various programming projects out of curiosity.
 
 ### 🔥 What drives me:
 - 🏫 **42 Student**: Mastering C, algorithms, and system programming
-- 🧠 **ML Enthusiast**: Building neural networks from scratch using pure NumPy
 - 🔒 **Security Advocate**: Exploring cybersecurity, ethical hacking, and secure coding practices
+- 🧠 **Curious Learner**: Experimenting with ML concepts like neural networks using NumPy
 - 🚀 **Innovation**: Creating projects that bridge theory and practical application
 - 🌱 **Continuous Learning**: Always exploring new technologies and security paradigms
 
@@ -48,13 +48,13 @@ I'm a passionate student at **42 Madrid**, diving deep into the world of program
 
 ## 🎯 Current Focus
 
-### 🧮 Neural Networks from Scratch
-Currently working on implementing neural networks using **only NumPy** - no high-level frameworks! This includes:
-- Forward and backward propagation algorithms
-- Various activation functions (ReLU, Sigmoid, Tanh)
-- Gradient descent optimization
-- Multi-layer perceptron architectures
-- Loss function implementations
+### 🏫 42 Madrid Journey
+Progressing through the 42 curriculum with projects involving:
+- Low-level programming and memory optimization
+- Algorithm implementation and complexity analysis
+- System administration and DevOps concepts
+- Security-aware programming and vulnerability prevention
+- Mathematical problem-solving
 
 ### 🔒 Cybersecurity Exploration
 Diving into the world of information security with focus on:
@@ -64,13 +64,11 @@ Diving into the world of information security with focus on:
 - **Secure Coding**: Implementing security best practices in development
 - **CTF Challenges**: Participating in Capture The Flag competitions
 
-### 🏫 42 Madrid Journey
-Progressing through the 42 curriculum with projects involving:
-- Low-level programming and memory optimization
-- Algorithm implementation and complexity analysis
-- System administration and DevOps concepts
-- Security-aware programming and vulnerability prevention
-- Mathematical problem-solving
+### 🧮 Side Experiments
+Currently experimenting with various concepts out of curiosity:
+- Implementing basic neural networks using NumPy to understand the math
+- Exploring machine learning fundamentals
+- Building small projects to grasp core algorithms
 
 ## 📊 GitHub Stats
 
@@ -88,12 +86,12 @@ Progressing through the 42 curriculum with projects involving:
 
 ## 🚀 Featured Projects
 
-### 🧠 NumPy Neural Network
-*Building neural networks from mathematical foundations*
-- Pure NumPy implementation
-- Multiple activation functions
-- Backpropagation algorithm
-- Educational focus on understanding fundamentals
+### 🏫 42 School Projects
+*Core curriculum implementations*
+- System-level programming in C
+- Algorithm optimization challenges
+- Unix system programming
+- Graphics and mathematical computations
 
 ### 🔒 Security Research & Tools
 *Exploring cybersecurity through hands-on practice*
@@ -102,18 +100,17 @@ Progressing through the 42 curriculum with projects involving:
 - CTF writeups and solutions
 - Secure coding examples
 
-### 🏫 42 School Projects
-*Core curriculum implementations*
-- System-level programming in C
-- Algorithm optimization challenges
-- Unix system programming
-- Graphics and mathematical computations
+### 🧠 Learning Experiments
+*Small projects driven by curiosity*
+- Basic neural network implementation with NumPy
+- Algorithm visualizations
+- Mathematical concept explorations
 
 ## 🌟 Learning Philosophy
 
-> "The best way to understand neural networks is to build them from scratch, and the best way to understand security is to think like an attacker" 
+> "The best way to understand something is to build it yourself, and the best way to secure it is to think like an attacker" 
 
-I believe in learning by doing and understanding the fundamental principles behind the technologies. This approach helps me:
+I believe in learning by doing and understanding the fundamental principles behind technologies. This approach helps me:
 - 🎯 Grasp core concepts deeply
 - 🔧 Debug and optimize effectively
 - 🚀 Innovate and adapt solutions
@@ -122,16 +119,16 @@ I believe in learning by doing and understanding the fundamental principles behi
 
 ## 🏆 Interests & Goals
 
-- 🤖 **AI Security**: Exploring adversarial attacks on neural networks
 - 🔍 **Reverse Engineering**: Understanding how systems work under the hood
 - 🌐 **Web Security**: Learning about modern web application vulnerabilities
 - 📱 **Mobile Security**: iOS and Android security research
 - 🏅 **CTF Competitions**: Sharpening skills through competitive hacking
+- 🤖 **AI Security**: Exploring the intersection of AI and cybersecurity
 
 ## 🤝 Let's Connect!
 
 I'm always excited to:
-- 👥 Collaborate on neural network and security projects
+- 👥 Collaborate on cybersecurity and programming projects
 - 💬 Discuss 42 School experiences and cybersecurity trends
 - 🎓 Share learning resources and CTF writeups
 - 🚀 Explore new programming and security challenges
