@@ -1,18 +1,19 @@
 # Hi there! 👋 I'm Damagasnake
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=42+Madrid+Student+%F0%9F%9A%80;Neural+Network+Enthusiast+%F0%9F%A7%A0;Building+with+NumPy+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=42+Madrid+Student+%F0%9F%9A%80;Neural+Network+Enthusiast+%F0%9F%A7%A0;Cybersecurity+Passionate+%F0%9F%94%92;Building+with+NumPy+%E2%9A%A1" alt="Typing SVG" />
 </div>
 
 ## 🎯 About Me
 
-I'm a passionate student at **42 Madrid**, diving deep into the world of programming and computer science through the innovative peer-to-peer learning methodology. When I'm not tackling the core curriculum, you'll find me exploring the fascinating realm of **machine learning** and **neural networks**.
+I'm a passionate student at **42 Madrid**, diving deep into the world of programming and computer science through the innovative peer-to-peer learning methodology. When I'm not tackling the core curriculum, you'll find me exploring the fascinating realms of **machine learning**, **neural networks**, and **cybersecurity**.
 
 ### 🔥 What drives me:
 - 🏫 **42 Student**: Mastering C, algorithms, and system programming
 - 🧠 **ML Enthusiast**: Building neural networks from scratch using pure NumPy
+- 🔒 **Security Advocate**: Exploring cybersecurity, ethical hacking, and secure coding practices
 - 🚀 **Innovation**: Creating projects that bridge theory and practical application
-- 🌱 **Continuous Learning**: Always exploring new technologies and concepts
+- 🌱 **Continuous Learning**: Always exploring new technologies and security paradigms
 
 ## 🛠️ Tech Stack
 
@@ -22,9 +23,19 @@ I'm a passionate student at **42 Madrid**, diving deep into the world of program
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+
+</div>
+
+### Cybersecurity Tools & Interests
+<div align="center">
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 
 </div>
 
@@ -32,6 +43,7 @@ I'm a passionate student at **42 Madrid**, diving deep into the world of program
 - **Systems Programming**: Memory management, data structures, algorithms
 - **Unix/Linux**: Shell scripting, system calls, process management
 - **Network Programming**: TCP/UDP protocols, client-server architecture
+- **Security Concepts**: Buffer overflows, secure coding, vulnerability analysis
 - **Graphics**: 2D/3D rendering, mathematical transformations
 
 ## 🎯 Current Focus
@@ -44,11 +56,20 @@ Currently working on implementing neural networks using **only NumPy** - no high
 - Multi-layer perceptron architectures
 - Loss function implementations
 
+### 🔒 Cybersecurity Exploration
+Diving into the world of information security with focus on:
+- **Ethical Hacking**: Learning penetration testing methodologies
+- **Vulnerability Research**: Understanding common security flaws (OWASP Top 10)
+- **Network Security**: Analyzing traffic and identifying threats
+- **Secure Coding**: Implementing security best practices in development
+- **CTF Challenges**: Participating in Capture The Flag competitions
+
 ### 🏫 42 Madrid Journey
 Progressing through the 42 curriculum with projects involving:
 - Low-level programming and memory optimization
 - Algorithm implementation and complexity analysis
 - System administration and DevOps concepts
+- Security-aware programming and vulnerability prevention
 - Mathematical problem-solving
 
 ## 📊 GitHub Stats
@@ -74,6 +95,13 @@ Progressing through the 42 curriculum with projects involving:
 - Backpropagation algorithm
 - Educational focus on understanding fundamentals
 
+### 🔒 Security Research & Tools
+*Exploring cybersecurity through hands-on practice*
+- Vulnerability assessment scripts
+- Network analysis tools
+- CTF writeups and solutions
+- Secure coding examples
+
 ### 🏫 42 School Projects
 *Core curriculum implementations*
 - System-level programming in C
@@ -83,21 +111,31 @@ Progressing through the 42 curriculum with projects involving:
 
 ## 🌟 Learning Philosophy
 
-> "The best way to understand neural networks is to build them from scratch" 
+> "The best way to understand neural networks is to build them from scratch, and the best way to understand security is to think like an attacker" 
 
-I believe in learning by doing and understanding the fundamental mathematics behind the algorithms. This approach helps me:
+I believe in learning by doing and understanding the fundamental principles behind the technologies. This approach helps me:
 - 🎯 Grasp core concepts deeply
 - 🔧 Debug and optimize effectively
 - 🚀 Innovate and adapt solutions
 - 📚 Bridge theory with practice
+- 🛡️ Think defensively while coding
+
+## 🏆 Interests & Goals
+
+- 🤖 **AI Security**: Exploring adversarial attacks on neural networks
+- 🔍 **Reverse Engineering**: Understanding how systems work under the hood
+- 🌐 **Web Security**: Learning about modern web application vulnerabilities
+- 📱 **Mobile Security**: iOS and Android security research
+- 🏅 **CTF Competitions**: Sharpening skills through competitive hacking
 
 ## 🤝 Let's Connect!
 
 I'm always excited to:
-- 👥 Collaborate on neural network projects
-- 💬 Discuss 42 School experiences
-- 🎓 Share learning resources and insights
-- 🚀 Explore new programming challenges
+- 👥 Collaborate on neural network and security projects
+- 💬 Discuss 42 School experiences and cybersecurity trends
+- 🎓 Share learning resources and CTF writeups
+- 🚀 Explore new programming and security challenges
+- 🔒 Exchange ideas about ethical hacking and defensive programming
 
 <div align="center">
   
@@ -114,5 +152,5 @@ I'm always excited to:
 </div>
 
 <div align="center">
-  <i>⭐ From Madrid with code ⭐</i>
+  <i>⭐ From Madrid with code & security ⭐</i>
 </div> 
