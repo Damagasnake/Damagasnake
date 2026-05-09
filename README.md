@@ -108,7 +108,7 @@ Java and Python applications built during DAM coursework — GUIs, database inte
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Damagasnake&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Damagasnake&theme=github-dark-blue&hide_border=true" />
 </div>
 
 ---
