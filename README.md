@@ -100,7 +100,16 @@ Java and Python applications built during DAM coursework — GUIs, database inte
 
 ---
 
-## Activity
+## Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Damagasnake&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damagasnake&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Damagasnake&theme=github-dark-blue&hide_border=true" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Damagasnake&theme=github-compact&hide_border=true&area=true" />
